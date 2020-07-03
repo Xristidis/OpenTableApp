@@ -2,7 +2,7 @@
 
 This is a full-stack app designed to consume the open-table API.
 
-To see this live, go to https://opentabledemo.herokuapp.com/
+To see this live, go to https://otapplication.herokuapp.com/
 
 I am using React, Redux, Axios, and AntDesign (for React Design Framework) on the front-end and Express in the back-end.
 
