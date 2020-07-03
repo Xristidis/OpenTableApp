@@ -13,11 +13,11 @@ You must have NodeJS installed locally.
 in the command line type -
 
 - "git clone"                         - Clone this repo.
-- "cd (insert directory nanme here)"  - Access Root Directory.
+- "cd (insert directory name here)"   - Access Root Directory.
 - "npm install"                       - Install dependencies.
 - "node server.js"                    - Launch app locally. 
 
-Go to http://localhost:3000/ to see app in your default browser.
+Go to http://localhost:3000/ to see app in your default browser!
 
 
 
